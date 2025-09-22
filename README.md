@@ -1,4 +1,4 @@
-# hello-word
+# My First GitHub Project 🚀
 my first repository on GitHub
 Welcome to my very first project on GitHub!
 This project is part of my journey into learning software development and version control with Git and GitHub.
